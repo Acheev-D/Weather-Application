@@ -14,7 +14,9 @@ Requests library
 User enters the name of a city
 App sends a request to the weather API
 API returns the latest weather details
-App displays all information neatly on the screen
+App displays all information neatly on the screen.
+
+
 Screenshot
 -----------------------------------------
 ![](city1.png)
