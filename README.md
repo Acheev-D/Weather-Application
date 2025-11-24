@@ -17,5 +17,5 @@ API returns the latest weather details
 App displays all information neatly on the screen
 Screenshot
 -----------------------------------------
-![](city1.png) 
+![](city1.png)
 ![](city2.png)
